@@ -2,7 +2,7 @@
 
 **Database Name: cabbookings**
 
-**Developed by Abhishek Lanke**
+**Developed by Tejaswini Pawar**
 
 **Recommended PHP Version 5.6, 7.4**
 
