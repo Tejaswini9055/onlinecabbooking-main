@@ -1,9 +1,8 @@
 # onlinecabbooking
-**Final year project**
 
 **Database Name: cabbookings**
 
-**Developed by Abhishek Lanke**
+**Developed by Tejaswini pawar**
 
 
 
@@ -20,7 +19,7 @@ GOOGLE RUN
 **http://localhost/CabBookingProject/**
 
 Live Demo link 🔗 
-https://abhilanke.github.io/onlinecabbooking/
+https://tejaswini9055.github.io/onlinecabbooking-main/
 
 **Admin Login Details**
 
